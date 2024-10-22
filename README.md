@@ -39,6 +39,10 @@ Determine product popularity, profitability, and analyze store performance geogr
 A detailed EDA report and visualizations that provide actionable recommendations to improve marketing, 
 sales, product development, and store operations. These insights will help Global Electronics enhance
 customer satisfaction and maximize revenue growth.
+![Screenshot (211)](https://github.com/user-attachments/assets/e4949cc0-2595-428a-aaad-357c6a78863d)
+![Screenshot (212)](https://github.com/user-attachments/assets/79782b84-4644-4ad7-ab28-be7a8727fa30)
+![Screenshot (213)](https://github.com/user-attachments/assets/116062ef-72b5-4e95-a56c-83c19b47e07d)
+![Screenshot (214)](https://github.com/user-attachments/assets/bd0af5bc-a9b3-4c42-a723-efb134ee9622)
 
 
 
